@@ -12,9 +12,7 @@ import javax.swing.JMenuItem;
 import javax.swing.SwingConstants;
 import java.awt.BorderLayout;
 import java.awt.GridLayout;
-import java.awt.event.ActionListener;
 import java.awt.event.ActionEvent;
-import java.awt.GridLayout;
 import java.awt.Dimension;
 import java.awt.Color;
 

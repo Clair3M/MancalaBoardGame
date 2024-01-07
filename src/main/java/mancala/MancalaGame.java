@@ -1,7 +1,6 @@
 package mancala;
 
 import java.io.Serializable;
-import java.io.IOException;
 
 import java.util.List;
 import java.util.ArrayList;
