@@ -179,7 +179,6 @@ public class GUI extends JFrame  {
         newGame.addActionListener(e -> { newGame(); });
         JMenuItem saveGame = new JMenuItem("Save game");
         saveGame.addActionListener(e -> { saveGame(); });
-        JMenu load = new JMenu("Load");
         JMenuItem loadGame = new JMenuItem("Load game");
         loadGame.addActionListener(e -> { loadGame(); });
         gameSettings.add(gameRules);
@@ -408,7 +407,6 @@ public class GUI extends JFrame  {
      */
     private void checkGameState() {
         int selection = 0;
-        JOptionPane gameOver = new JOptionPane();
         
         String button = "Play Again?";
         if (game.isGameOver()) {
@@ -430,7 +428,7 @@ public class GUI extends JFrame  {
             }
             congrats.append("<br/>Play again?<html/>");
             //make it so that the number of game won/player increases
-            selection = gameOver.showConfirmDialog(null, congrats, button, 
+            selection = JOptionPane.showConfirmDialog(null, congrats, button, 
                 JOptionPane.YES_NO_OPTION);
             if (selection == JOptionPane.NO_OPTION) {
                 System.exit(0);
