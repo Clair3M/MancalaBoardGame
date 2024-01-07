@@ -1,5 +1,8 @@
 # README
-This program is a game created for an object oriented programming course where we were tasked with creating our own versions of the board games Mancala and Ayoayo.
+This program is a game created for an object oriented programming course where we were tasked with creating our own versions of the board games Mancala and Ayoayo. I makes use of Java Swing for the UI components and was tested using the the JUnit framework. The project was a combination of multiple assignments over a month and helped me learn how to incorporate OO design concepts such as inheretence, interfaces, and single responsibility in programs. In addition, I learned how to take advantage of event listeners to build an event driven program.
 
-# Known Issues
-Viewing the game rules currently doesn't work because the program trys to access a file in a very specific filepath that doesn't work unless the program is run from the program home directory.
+The assignment was created by Judi McCuaig
+
+## Running the Game
+From the project home directory enter the command:
+java -jar build/libs/GUI.jar

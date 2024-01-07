@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="mancala.MancalaGameTest" tests="16" skipped="0" failures="0" errors="0" timestamp="2024-01-07T02:11:36" hostname="CIS2430" time="0.051">
+  <properties/>
+  <testcase name="testGetNumStonesOnSideEmptyPit4()" classname="mancala.MancalaGameTest" time="0.004"/>
+  <testcase name="testGetNumStonesOnSideThrowsExceptionFor13()" classname="mancala.MancalaGameTest" time="0.004"/>
+  <testcase name="testGetWinnerP1()" classname="mancala.MancalaGameTest" time="0.002"/>
+  <testcase name="testGetWinnerP2()" classname="mancala.MancalaGameTest" time="0.005"/>
+  <testcase name="testGetWinnerNotOver()" classname="mancala.MancalaGameTest" time="0.001"/>
+  <testcase name="testMoveInvalidPit13()" classname="mancala.MancalaGameTest" time="0.0"/>
+  <testcase name="testGetNumStonesOnSideThrowsExceptionForZero()" classname="mancala.MancalaGameTest" time="0.0"/>
+  <testcase name="testGetNumStonesOnSideMixedPits()" classname="mancala.MancalaGameTest" time="0.001"/>
+  <testcase name="testGetWinnerTie()" classname="mancala.MancalaGameTest" time="0.008"/>
+  <testcase name="testMoveReturnsCorrectStones()" classname="mancala.MancalaGameTest" time="0.004"/>
+  <testcase name="testMoveOpponentsP1()" classname="mancala.MancalaGameTest" time="0.001"/>
+  <testcase name="testMoveOpponentsP2()" classname="mancala.MancalaGameTest" time="0.004"/>
+  <testcase name="testMoveInvalidPit0()" classname="mancala.MancalaGameTest" time="0.001"/>
+  <testcase name="testGetNumStonesOnSideEmptyPit11()" classname="mancala.MancalaGameTest" time="0.0"/>
+  <testcase name="testGetNumStonesOnSideForPit3()" classname="mancala.MancalaGameTest" time="0.001"/>
+  <testcase name="testGetNumStonesOnSideForPit8()" classname="mancala.MancalaGameTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

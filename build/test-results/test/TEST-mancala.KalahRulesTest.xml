@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="mancala.KalahRulesTest" tests="27" skipped="0" failures="0" errors="0" timestamp="2024-01-07T02:11:36" hostname="CIS2430" time="0.097">
+  <properties/>
+  <testcase name="moveStonesStoreIncr()" classname="mancala.KalahRulesTest" time="0.001"/>
+  <testcase name="moveStonesStoreSame()" classname="mancala.KalahRulesTest" time="0.01"/>
+  <testcase name="moveStonesInvalidPlayer()" classname="mancala.KalahRulesTest" time="0.001"/>
+  <testcase name="sCaptureStonesNoP1()" classname="mancala.KalahRulesTest" time="0.003"/>
+  <testcase name="sCaptureStonesNoP2()" classname="mancala.KalahRulesTest" time="0.001"/>
+  <testcase name="moveStonesValidP1()" classname="mancala.KalahRulesTest" time="0.008"/>
+  <testcase name="moveStonesValidP2()" classname="mancala.KalahRulesTest" time="0.001"/>
+  <testcase name="captureStonesBothEmpty()" classname="mancala.KalahRulesTest" time="0.001"/>
+  <testcase name="distributeStonesValidPits()" classname="mancala.KalahRulesTest" time="0.003"/>
+  <testcase name="moveStonesSwitchPlayer()" classname="mancala.KalahRulesTest" time="0.004"/>
+  <testcase name="moveStonesOverBoard()" classname="mancala.KalahRulesTest" time="0.0"/>
+  <testcase name="moveStonesSecondTurn()" classname="mancala.KalahRulesTest" time="0.0"/>
+  <testcase name="sCaptureStonesP1()" classname="mancala.KalahRulesTest" time="0.0"/>
+  <testcase name="sCaptureStonesP2()" classname="mancala.KalahRulesTest" time="0.0"/>
+  <testcase name="moveStonesAbovePit()" classname="mancala.KalahRulesTest" time="0.004"/>
+  <testcase name="moveStonesBelowPit()" classname="mancala.KalahRulesTest" time="0.001"/>
+  <testcase name="distributeStonesValidPitsNext()" classname="mancala.KalahRulesTest" time="0.0"/>
+  <testcase name="captureStonesRemovesOtherSide()" classname="mancala.KalahRulesTest" time="0.001"/>
+  <testcase name="moveStonesCaptureStones()" classname="mancala.KalahRulesTest" time="0.001"/>
+  <testcase name="captureStonesRemovesSide()" classname="mancala.KalahRulesTest" time="0.003"/>
+  <testcase name="getBonusTurnNonStore()" classname="mancala.KalahRulesTest" time="0.0"/>
+  <testcase name="captureStonesReturns()" classname="mancala.KalahRulesTest" time="0.001"/>
+  <testcase name="getBonusTurnStore1P1()" classname="mancala.KalahRulesTest" time="0.0"/>
+  <testcase name="getBonusTurnStore1P2()" classname="mancala.KalahRulesTest" time="0.001"/>
+  <testcase name="getBonusTurnStore2P1()" classname="mancala.KalahRulesTest" time="0.002"/>
+  <testcase name="getBonusTurnStore2P2()" classname="mancala.KalahRulesTest" time="0.001"/>
+  <testcase name="moveStonesSecondTurnP2()" classname="mancala.KalahRulesTest" time="0.004"/>
+  <system-out><![CDATA[Must choose pit on your side
+Must choose pit on your side
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

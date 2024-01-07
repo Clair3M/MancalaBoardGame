@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="mancala.AyoRulesTest" tests="19" skipped="0" failures="0" errors="0" timestamp="2024-01-07T02:11:35" hostname="CIS2430" time="0.111">
+  <properties/>
+  <testcase name="moveStonesInvalidPlayer()" classname="mancala.AyoRulesTest" time="0.048"/>
+  <testcase name="moveStonesValidP1()" classname="mancala.AyoRulesTest" time="0.009"/>
+  <testcase name="moveStonesValidP2()" classname="mancala.AyoRulesTest" time="0.001"/>
+  <testcase name="moveStonesReturnP1()" classname="mancala.AyoRulesTest" time="0.0"/>
+  <testcase name="moveStonesReturnP2()" classname="mancala.AyoRulesTest" time="0.005"/>
+  <testcase name="moveStonesP2AddToStore()" classname="mancala.AyoRulesTest" time="0.001"/>
+  <testcase name="moveStonesP1NoAddToStore()" classname="mancala.AyoRulesTest" time="0.002"/>
+  <testcase name="moveAboveBoard()" classname="mancala.AyoRulesTest" time="0.002"/>
+  <testcase name="moveStonesSwitchPlayer()" classname="mancala.AyoRulesTest" time="0.0"/>
+  <testcase name="captureStonesP1()" classname="mancala.AyoRulesTest" time="0.002"/>
+  <testcase name="captureStonesP2()" classname="mancala.AyoRulesTest" time="0.0"/>
+  <testcase name="moveBelowBoard()" classname="mancala.AyoRulesTest" time="0.001"/>
+  <testcase name="distributeStonesEmpty()" classname="mancala.AyoRulesTest" time="0.001"/>
+  <testcase name="distributeStones1Cycle()" classname="mancala.AyoRulesTest" time="0.001"/>
+  <testcase name="distributeStonesMultiCycle()" classname="mancala.AyoRulesTest" time="0.001"/>
+  <testcase name="distributeStonesStore1()" classname="mancala.AyoRulesTest" time="0.001"/>
+  <testcase name="distributeStonesStore2()" classname="mancala.AyoRulesTest" time="0.001"/>
+  <testcase name="moveStonesLandsInStoreP1()" classname="mancala.AyoRulesTest" time="0.001"/>
+  <testcase name="moveStonesLandsInStoreP2()" classname="mancala.AyoRulesTest" time="0.005"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

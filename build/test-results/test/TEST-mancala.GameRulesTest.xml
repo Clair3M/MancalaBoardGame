@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="mancala.GameRulesTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2024-01-07T02:11:35" hostname="CIS2430" time="0.056">
+  <properties/>
+  <testcase name="testClearBoardDefaultStones()" classname="mancala.GameRulesTest" time="0.004"/>
+  <testcase name="testClearBoardRemovesStones()" classname="mancala.GameRulesTest" time="0.003"/>
+  <testcase name="isSideEmpty13()" classname="mancala.GameRulesTest" time="0.006"/>
+  <testcase name="isSideEmptyP1False()" classname="mancala.GameRulesTest" time="0.002"/>
+  <testcase name="isSideEmptyP2False()" classname="mancala.GameRulesTest" time="0.003"/>
+  <testcase name="testClearBoardMixedStones()" classname="mancala.GameRulesTest" time="0.003"/>
+  <testcase name="testRegisterPlayers()" classname="mancala.GameRulesTest" time="0.002"/>
+  <testcase name="isSideEmptyP1True()" classname="mancala.GameRulesTest" time="0.004"/>
+  <testcase name="isSideEmptyP2True()" classname="mancala.GameRulesTest" time="0.001"/>
+  <testcase name="testClearBoardEmpty()" classname="mancala.GameRulesTest" time="0.005"/>
+  <testcase name="isSideEmptyZero()" classname="mancala.GameRulesTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
